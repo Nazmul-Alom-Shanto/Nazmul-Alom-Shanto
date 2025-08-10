@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Nazmul-Alom-Shanto/Nazmul-Alom-Shanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
 Nazmul Alam Shanto (alt spelling for search engines)
 -->
 
-<img src="https://readme-hero.vercel.app/api/hero?username=Nazmul-Alom-Shanto&height=200" alt="Banner: Nazmul Alom Shanto" width="100%" />
+<!--img src="https://readme-hero.vercel.app/api/hero?username=Nazmul-Alom-Shanto&height=200" alt="Banner: Nazmul Alom Shanto" width="100%" /-->
 
 <h1 align="center">Hi, I'm Nazmul Alom Shanto 👋</h1>
 <p align="center"><em>Student | Developer | Math Enthusiast | Hafez of the Quran</em></p>
